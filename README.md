@@ -2,6 +2,8 @@
 
 KeyBoss is a GUI password generator/tester done with CustomTkInter. You can use it to check if your passwords are in the green or generate a secure one. 
 Thanks to Tech With Tim (https://www.youtube.com/@TechWithTim) and Hive Systems (hivesystems.io) for the inspiration!
+Due to executable weights i can't upload the .exe file. For a complete experience download the assets.zip and put the content in the same path that key_boss.py
+Otherwise time charts will not show up and you will not get a full user experience.
 
 ![keyboss_schema](https://github.com/JVinuelas19/KeyBoss/assets/111135343/181b95c3-6d30-4eb2-8496-c89415be12b2)
 
@@ -16,17 +18,17 @@ Thanks to Tech With Tim (https://www.youtube.com/@TechWithTim) and Hive Systems 
 - An easter egg explaining what happened with the md5_hash.py file. If you find it please let me know!
 
 
-KeyBoss looks:
+# KeyBoss images:
 
-Dark theme plus first look:
+- Dark theme plus first look:
 
 ![keyboss_main](https://github.com/JVinuelas19/KeyBoss/assets/111135343/acce306c-3569-43a5-96dd-9c8ba4087fa7)
 
-Light theme with a generation example:
+- Light theme with a generation example:
 
 ![keyboss_generate](https://github.com/JVinuelas19/KeyBoss/assets/111135343/01fd17fa-d67d-4dde-bc6b-8a267a83fb0c)
 
-Light theme with a test example:
+- Light theme with a test example:
 
 ![keyboss_test](https://github.com/JVinuelas19/KeyBoss/assets/111135343/a3b6cb8a-412a-40ba-887a-20bc20695a0b)
 
