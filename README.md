@@ -7,7 +7,7 @@ Otherwise time charts will not show up and you will not get a full user experien
 
 ![keyboss_schema](https://github.com/JVinuelas19/KeyBoss/assets/111135343/181b95c3-6d30-4eb2-8496-c89415be12b2)
 
-# KeyBoss main features:
+# Main features:
 - Generates passwords based on user's criteria: users can add numbers, symbols, uppercase and lowercase letters. Choose a length and pressing GENERATE will return a password, its MD5 hash and cracking time based on current brute-force hardware.
 - Tests your passwords: Users can enter them passwords to test how secure they are based on length, character composition and selected brute-force hardware.
 - Time charts included: You can check anytime the hardware time charts pressing the 'Show Hardware Chart' button.
@@ -18,7 +18,7 @@ Otherwise time charts will not show up and you will not get a full user experien
 - An easter egg explaining what happened with the md5_hash.py file. If you find it please let me know!
 
 
-# KeyBoss images:
+# App Showcase:
 
 - Dark theme plus first look:
 
